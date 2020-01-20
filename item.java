@@ -32,7 +32,7 @@ public abstract class item {
 	
 
 	public static void main(String[] args) {
-		item it=new Book("Divya");
+		item it=new Book("Tushar");
 		it.checkin();
 		
 		
